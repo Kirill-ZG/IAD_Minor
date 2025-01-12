@@ -1,0 +1,1 @@
+Here I wrote YOLO model for image detection from scratch (with a bit of help from youtube video)

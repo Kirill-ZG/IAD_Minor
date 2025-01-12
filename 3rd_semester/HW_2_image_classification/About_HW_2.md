@@ -1,0 +1,1 @@
+Here I classified images using different data science methods (like augmentations and resize of images) and a lot of not pretrained (in task 1) and pretrained models. Also had to learn how to use pytorch lightning and wandb ("Weights and Biases", wand.ai). Best results came from using a transformer))

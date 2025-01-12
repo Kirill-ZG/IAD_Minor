@@ -1,0 +1,1 @@
+Here I wrote my own translator, initially just using simple encoder-decoder model and then with addition of attention layer to it following the famous "Attention is All You Need" paper

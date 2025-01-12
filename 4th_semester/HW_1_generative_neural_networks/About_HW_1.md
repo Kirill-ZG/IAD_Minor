@@ -1,0 +1,1 @@
+Here I wrote conditional WGAN from scratch and trained it to generate fotons and adrons. Also I compared it with simple diffusion model
