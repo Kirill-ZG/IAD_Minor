@@ -1,1 +1,1 @@
-Here I wrote conditional WGAN from scratch and trained it to generate fotons and adrons. Also I compared it with simple diffusion model
+Here I wrote conditional WGAN from scratch and trained it to generate images of photons and hadrons as they appear on the MAGIC telescope (Major Atmospheric Gamma Imaging Cherenkov Telescope). Also I compared its results with simple diffusion model
